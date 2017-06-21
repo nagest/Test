@@ -12,4 +12,5 @@ RUN apt-get install -y nginx
 # Expose ports
 EXPOSE 80
 
+#Enable nginx service
 ENTRYPOINT service nginx start && /bin/bash
