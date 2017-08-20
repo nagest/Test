@@ -1,4 +1,4 @@
-# Set the base image to Ubuntu1
+# Set the base image to Ubuntu12
 FROM ubuntu:latest
 
 # File Author / Maintainer
